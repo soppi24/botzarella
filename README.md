@@ -28,7 +28,8 @@ python main.py
 
 ## Hardware Warning
 
-This runs locally and is **very CPU/GPU intensive**. I used my desktop PC - didn't even dare test on my laptop. Of course, first responses are slow as models load into memory, but that's part of the fun right?
+- This runs locally and is **very CPU/GPU intensive**. I used my desktop PC - didn't even dare test on my laptop. Of course, first responses are slow as models load into memory, but that's part of the fun right?
+- Not really a warning but most files should be properly regenerated from my original to use Botzerella, although I'm yet to test it on another device with a good cpu and gpu. Or I may modify this one to use a less intensive model in future.
 
 ## Files
 
